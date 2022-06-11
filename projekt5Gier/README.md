@@ -31,21 +31,24 @@ przykładowe polecenie uruchamiające grę "Poszukiwanie skarbów": python Sonar
 Aby uruchomić grę należy wykonać plik: "guessTheNumber.py"
 
 Poprawnie działająca gra prezentuje się w następujący sposób:
-TODO
+![image (1)](https://user-images.githubusercontent.com/11819738/173203922-d7a9f1ee-99ce-4e59-b4b8-f13b9739ff29.png)
+
 
 ### Smocza kraina
 Aby uruchomić grę należy wykonać plik: "LandOfDragons.py"
 W celu ułatwienia testów funkcjonalności gry, razem z grą jest dołączony zapis gry "rnd10.save", w tej rundzie smok w jaskini nr. 7 jest przyjazny co będzie skutkowało możliwością przetestowania czy da się wygrać grę. Zapis gry można wczytać za pośrednictwem menu, dostępnego po wpisaniu polecenia "menu".
 
 Poprawnie działająca gra prezentuje się w następujący sposób:
-TODO
+![image (2)](https://user-images.githubusercontent.com/11819738/173203926-b140afce-c96d-4e78-a8cb-22deb335511f.png)
+
 
 ### Poszukiwanie skarbów
 Aby uruchomić grę należy wykonać plik: "SonarSearch.py"
 W celu ułatwienia testów funkcjonalności gry, razem z grą jest dołączony zapis gry "tst2.save", w tym stanie rozgrywki 2 z 3 skrzyń zostały już zebrane, ostatnia skrzynia znajduje się w koordynatach: 19 11, co pozwoli na sprawdzenie czy gra posiada możliwość zwycięstwa. Zapis gry można wczytać za pośrednictwem menu, dostępnego po wpisaniu polecenia "menu".
 
 Poprawnie działająca gra prezentuje się w następujący sposób:
-TODO
+![image](https://user-images.githubusercontent.com/11819738/173203930-d70d5706-cfac-42de-9527-9cecdc9a8d69.png)
+
 
 ### Pong
 Aby uruchomić grę należy wykonać plik: "Pong.py"
@@ -58,7 +61,8 @@ Aby uruchomić menu w trakcie gry należy naciśnąć klawisz "m".
 - W sytuacji gdy paletka oraz piłka jednocześnie zbliżają się do siebie, kolizja pomiędzy nimi może nie zostać wykryta
 
 Poprawnie działająca gra prezentuje się w następujący sposób:
-TODO
+![Screenshot 2022-06-11 223020](https://user-images.githubusercontent.com/11819738/173203934-5da2ef4e-290b-4bb9-88ac-fcc780ad5336.png)
+
 
 
 ### Kółko i krzyżyk 
