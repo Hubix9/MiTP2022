@@ -67,3 +67,11 @@ Poprawnie działająca gra prezentuje się w następujący sposób:
 
 ### Kółko i krzyżyk 
 TODO
+
+
+## Źródła
+Niektóre z grafik wykorzystanych w grach zostały pozyskane z następujących stron:
+istockphoto.com
+dreamstime.com
+depositphotos.com
+downloadtexture.com
